@@ -81,7 +81,7 @@ public class Controller {
     }
 
     private void animateLogo() {
-        // TODO: 06.06.2020 zamienić na timer, bo się chrzani
+        // TODO: zamienić na timer, bo się chrzani
         new Thread(() -> {
             while (true) {
                 try {
